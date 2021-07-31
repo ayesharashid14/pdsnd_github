@@ -4,7 +4,7 @@
 31-07-2021
 
 ### Project Title
-Bikeshare Project
+Bikeshare data analysis
 
 ### Description
 Analyse bikeshare data for Chicago, New York City and Washington using Numpy and Pandas.
