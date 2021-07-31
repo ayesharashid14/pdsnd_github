@@ -7,7 +7,7 @@
 Bikeshare Project
 
 ### Description
-Analyse bikeshare data for three cities using Numpy and Pandas.
+Analyse bikeshare data for Chicago, New York City and Washington using Numpy and Pandas.
 
 ### Files used
 bikeshare.py
